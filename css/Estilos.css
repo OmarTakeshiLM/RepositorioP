@@ -1,6 +1,10 @@
 body{
+<<<<<<< HEAD
     background: #80ff72;
     color: green;
+=======
+    color: red;
+>>>>>>> 517669778df1be9dabafe1d90921159ad7e5f624
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -10,7 +14,7 @@ body{
 
 #cabecera
 {
-    background: greenyellow;
+    background: blue;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.75);
     color: white;
     font-weight: bold;
